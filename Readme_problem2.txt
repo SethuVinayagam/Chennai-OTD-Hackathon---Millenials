@@ -1,0 +1,4 @@
+- Avg. walking speed is assumed to be 4.5 km/h (1.25 m/s)
+- For intermodal transfers, only stops that are within a 500 m radius to a given stop are considered
+- Max. transfer waiting time is taken as 15 minutes
+- Boardings and alightings are assumed to happen instantaneously
